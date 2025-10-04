@@ -1,0 +1,15 @@
+{
+  "short_name": "Skill Gap Analyzer",
+  "name": "AI-Powered Skill Gap Analyzer",
+  "description": "Analyze your skills, identify gaps, and get personalized course recommendations",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#3B82F6",
+  "background_color": "#ffffff",
+  "orientation": "portrait-primary",
+  "categories": ["education", "productivity", "business"],
+  "lang": "en",
+  "scope": "/",
+  "id": "skill-gap-analyzer"
+}

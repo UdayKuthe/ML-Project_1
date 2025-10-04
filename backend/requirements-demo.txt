@@ -1,0 +1,12 @@
+# Core FastAPI dependencies
+fastapi
+uvicorn[standard]
+python-multipart
+python-decouple
+
+# Use latest compatible versions that work with Python 3.13
+pydantic
+email-validator
+
+# Basic utilities
+requests
