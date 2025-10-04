@@ -335,19 +335,6 @@ const RegisterForm = () => {
               )}
             </button>
           </div>
-
-          <div className="text-center">
-            <p className="text-xs text-gray-500">
-              By creating an account, you agree to our{' '}
-              <Link to="/terms" className="text-primary-600 hover:text-primary-500">
-                Terms of Service
-              </Link>{' '}
-              and{' '}
-              <Link to="/privacy" className="text-primary-600 hover:text-primary-500">
-                Privacy Policy
-              </Link>
-            </p>
-          </div>
         </form>
       </div>
     </div>
